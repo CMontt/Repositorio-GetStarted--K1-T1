@@ -2,11 +2,11 @@
 
 Some git commands:
 
-git push
-git pull
-git add
-git status
-git checkout
-git stash
+git push  
+git pull  
+git add  
+git status  
+git checkout  
+git stash  
 
 Just a test
